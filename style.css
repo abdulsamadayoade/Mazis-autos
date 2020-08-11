@@ -6,16 +6,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'RubikBold';
-    src: url('Rubik/Rubik-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'RubikMedium';
-    src: url('Rubik/Rubik-Medium.ttf') format('truetype');
-}
-
 html {
     font-family: 'RubikMedium', sans-serif;
     font-size: 10px;
