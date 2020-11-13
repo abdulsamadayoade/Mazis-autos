@@ -6,18 +6,9 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'RubikBold';
-    src: url('Rubik/Rubik-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'RubikMedium';
-    src: url('Rubik/Rubik-Medium.ttf') format('truetype');
-}
-
 html {
-    font-family: 'RubikMedium', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
     font-size: 10px;
     color: #fff;
 }
@@ -46,7 +37,7 @@ nav a {
 }
 
 .logo {
-    font-family: 'RubikMedium', sans-serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 1.8rem;
 }
 
